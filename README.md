@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Im currently working on a robotics project for SDP at the university of edinburgh!
+
+While also learning computer networking and machine learning
+
+Head over to my linked in to reach me.
+
+Hobbies: Poker, Gym, League of Legends
+
 <!--
 **LAMbo543/LAMbo543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
